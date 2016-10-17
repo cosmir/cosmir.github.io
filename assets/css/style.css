@@ -1,4 +1,17 @@
+.nav-tabs-left {
+	float: left;
+	border-bottom: none;
+}
+.nav-tabs-right {
+	text-align: right;
+}
+.nav-tabs-right > li {
+	display: inline-block;
+	float: none;
+}
+
 .bs-footer .container {
 	border-top: solid 1px #eee;
-	padding-top: 40px;
+	margin-top: 40px;
+	padding-top: 30px;
 }
