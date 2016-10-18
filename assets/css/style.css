@@ -12,6 +12,11 @@
 
 .bs-footer .container {
 	border-top: solid 1px #eee;
+	color:#666;
 	margin-top: 40px;
 	padding-top: 30px;
+}
+.bs-footer li {
+	display: inline-block;
+	margin-left: 10px;
 }
