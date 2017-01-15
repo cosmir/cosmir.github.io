@@ -9,5 +9,5 @@ title: COSMIR
   <p><a class="btn btn-primary btn-lg" href="/about.html" role="button">Learn more</a></p>
 </div>
 
-<p class="lead text-center" style="margin-top:30px;">For 2017 we are going to run the <a  href="/open-mic/">OpenMIC challenge</a> for the classification and retrieval of musical instruments.</p>
+<p class="lead text-center" style="margin-top:30px;">For 2017 we are going to run the <a  href="/open-mic/">OpenMIC challenge</a> for the annotation and retrieval of musical instruments.</p>
 <p class="text-center"><a class="btn btn-primary btn" href="/open-mic/" role="button">Learn more</a> <a class="btn btn-primary btn" href="/open-mic/contribute.html" role="button">See how to contribute</a></p>
